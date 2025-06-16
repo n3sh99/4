@@ -15,5 +15,9 @@ export const PALAVRAS_RUINS = new Set([
 
   "um",
 
+  "uma",
+
+  "e",
+
   // restante da lista...
 ]);
