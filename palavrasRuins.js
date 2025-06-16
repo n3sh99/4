@@ -9,5 +9,11 @@ export const PALAVRAS_RUINS = new Set([
 
   "de",
 
+  "o",
+
+  "a",
+
+  "um",
+
   // restante da lista...
 ]);
