@@ -7,5 +7,7 @@ export const PALAVRAS_RUINS = new Set([
 
   "não",
 
+  "de",
+
   // restante da lista...
 ]);
