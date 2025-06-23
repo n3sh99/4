@@ -9,4 +9,5 @@ export const PALAVRAS_RUINS = new Set([
   "um",
   "uma",
   "e",
+  "mais"
 ]);
